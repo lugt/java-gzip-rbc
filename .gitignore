@@ -1,0 +1,22 @@
+build
+out
+
+# Editor related
+.idea
+.vscode
+**/*~
+**/*.swp
+
+# Plugin generated files
+**/*.src.list
+**/*.dir.list
+**/*.lib.list
+
+# XVSA related middle files
+**/*.v
+**/*.o
+**/*.B
+**/*.W
+**/*.O
+**/*.I
+**/*.udr
